@@ -29,7 +29,7 @@
 - Conclusion on the features most contributing towards explining the target
 
 
-### Conclusion
+### Conclusions
 <b>Following are the top 3 features contributing significantly:</b>
 <ul>1. <b>temp</b> (Higher <b>Temperature</b> Increases the demand)</ul>
 <ul>2. <b>weathersit</b> (When weather has <b>LightSnow</b> it Decreases the demand)</ul>
